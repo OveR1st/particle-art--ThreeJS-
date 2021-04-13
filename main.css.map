@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/style.scss"],"names":[],"mappings":"AACA,EACE,QAAS,CACT,SAAU,CACX,UAIC,qBAAoC,CACrC,QAOC,YAAa","file":"main.css","sourcesContent":["\n* {\n  margin: 0;\n  padding: 0;\n}\n\nhtml,\nbody {\n  background-color: hsla(0, 0%, 0%, 1);\n}\n\n/**\n * Styles\n */\n\n#canvas {\n  display: none;\n}\n"],"sourceRoot":""}
